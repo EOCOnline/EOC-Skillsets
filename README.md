@@ -1,2 +1,4 @@
 # EOC-Skillsets
-To normalize skills required and documented in task books for various positions within an Emergency Operation Center FEMA has created suggested skills required for each position. Here are some derivitive works that may aid others.
+FEMA’s list of Skillsets (& associated Skills/Tasks) help Emergency Operation Centers (EOCs) qualify personnel. 
+Common Skillsets suggest training & provide a standardized vocabulary to specify personnel skills between EOCs. 
+This repository contains derivative products of the FEMA skillsets to aid in their effective use.
